@@ -1,0 +1,1 @@
+(()=>{"use strict";var e={d:(t,n)=>{for(var o in n)e.o(n,o)&&!e.o(t,o)&&Object.defineProperty(t,o,{enumerable:!0,get:n[o]})},o:(e,t)=>Object.prototype.hasOwnProperty.call(e,t)};e.d({},{k:()=>t});const t=document.getElementById("content");(()=>{const e=document.createElement("div");e.innerHTML+="<h1>Ristorante</h1>",t.appendChild(e)})()})();
